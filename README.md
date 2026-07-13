@@ -31,7 +31,7 @@ bioinformatics-project-02-ncbi-sequence-fetcher/
 |   |-- nucleotide/
 |   `-- protein/
 |-- images/
-|   `-- .gitkeep
+|   `-- project_output.png
 |-- requirements.txt
 |-- LICENSE
 `-- README.md
@@ -100,6 +100,19 @@ Source: https://www.ncbi.nlm.nih.gov/nuccore/J01859.1
 FASTA saved as: J01859.1.fasta
 Metadata saved as: J01859.1_metadata.txt
 ```
+
+The screenshot below shows the nucleotide example being retrieved successfully.
+The email entered for the NCBI request has been hidden for privacy.
+
+![NCBI Sequence Fetcher output](images/project_output.png)
+
+## Connection to the previous project
+
+The downloaded `J01859.1.fasta` file was also opened successfully with my
+[BioSeq Toolkit](https://github.com/pankhilpandya01-star/bioinformatics-project-00-seqtool).
+This connects the portfolio workflow: one project retrieves a traceable record
+from NCBI, and the earlier sequence-analysis tool can use the resulting FASTA
+file as its input.
 
 ## Output files
 
