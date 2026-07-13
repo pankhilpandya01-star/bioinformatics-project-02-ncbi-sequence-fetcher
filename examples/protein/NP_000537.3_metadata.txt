@@ -1,0 +1,10 @@
+NCBI Sequence Fetcher Metadata
+==============================
+Database: Protein
+Accession: NP_000537.3
+Title: cellular tumor antigen p53 isoform a [Homo sapiens]
+Organism: Homo sapiens
+Sequence length: 393
+NCBI record updated: 21-NOV-2025
+Retrieved (UTC): 2026-07-13
+Source: https://www.ncbi.nlm.nih.gov/protein/NP_000537.3
