@@ -1,0 +1,10 @@
+NCBI Sequence Fetcher Metadata
+==============================
+Database: Nucleotide
+Accession: J01859.1
+Title: Escherichia coli 16S ribosomal RNA, complete sequence
+Organism: Escherichia coli
+Sequence length: 1541
+NCBI record updated: 13-JUN-2017
+Retrieved (UTC): 2026-07-13
+Source: https://www.ncbi.nlm.nih.gov/nuccore/J01859.1
