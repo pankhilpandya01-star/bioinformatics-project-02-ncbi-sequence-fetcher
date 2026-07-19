@@ -33,6 +33,7 @@ bioinformatics-project-02-ncbi-sequence-fetcher/
 |-- images/
 |   `-- project_output.png
 |-- requirements.txt
+|-- .gitignore
 |-- LICENSE
 `-- README.md
 ```
@@ -175,6 +176,12 @@ nucleotide and protein accessions listed above.
 ## Limitations and future improvements
 
 Version 1 retrieves one accession per run. Future versions could add keyword searching, batch retrieval, optional API keys, and integration with downstream sequence analysis tools.
+
+## Portfolio Progression
+
+Previous project: [FASTA Explorer](https://github.com/pankhilpandya01-star/bioinformatics-project-01-fasta-explorer)
+
+Next project: [Restriction Site Finder](https://github.com/pankhilpandya01-star/bioinformatics-project-03-restriction-site-finder)
 
 ## License
 
